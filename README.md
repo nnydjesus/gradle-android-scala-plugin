@@ -1,5 +1,7 @@
 # gradle-android-scala-plugin
 
+<a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg"></a>
+
 gradle-android-scala-plugin adds scala language support to official gradle android plugin.
 See also sample projects at https://github.com/saturday06/gradle-android-scala-plugin/tree/master/sample
 
